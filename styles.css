@@ -3,7 +3,7 @@ body{
             align-items: center;
             background-color: #ffffff;           
         }
-        .bdycontainer{
+        .container{
             display: flex;
             align-items: center;
             justify-content:center;
